@@ -78,4 +78,18 @@
 - Showing some special cases and explains why they happen. 
 
 # Video 21
+- errors in code, can be from javascript or the developer himself. Try Catch Finally.
+
+# Video 22
+- Code after error does not get printed to the console. Finally will always run!
+- log errors!! 
+
+# Video 23
+- new date(). month counting starts from 0! year month day hour min sec.
+- set and get, Month Time Day...
+
+# Video 24
+- date is based on UTC, not your own timezone! Supporting material for more info on dates, if interested
+
+# Video 25
 - 
