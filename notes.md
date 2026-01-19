@@ -92,4 +92,61 @@
 - date is based on UTC, not your own timezone! Supporting material for more info on dates, if interested
 
 # Video 25
+- == checkts fo equality regardless data type, === checks equal value and data type. Should use ===!. != and  !==
+- can skip {} in if statements if you want. Ternary statement!! (one liner)
+
+# Video 26
+- important to use === so it checks data type and value!!! When checking values!
+- For quick simple checks, ternary check can be cleaner and shortens code
+
+# Video 27
+- when comparing strings, convert to upper or lowercase for comparison. 
+- & && and | ||. most times use && and ||
+- switch statements always checks for equality, not less than or more than. BREAK STATEMENTS!
+
+# Video 28
+- try to avoid ! (not operators) to keep code more simple and readable.
+
+# Video 29
+- create with [] or Array() give length in paranthesis either a number or variable that has a number!
+
+# Video 30
+- same as 29
+
+# Video 31
+- Can add data when creating the array or after. Index in array starts at 0!
+- Last item in array is length-1! if something is not at that index in array prints undefined
+
+# Video 32
+- when adding data to array at creating, put it inside [], indexes separated by ",".
+
+# Video 33
+- array.push() array.pop(), array.shift() array.unshift(), 
+- concat join arrays, arr1.concat() 2nd array in paranthesis or arr1.concat() and insert new values in parenthesis
+
+# Video 34
+- when joining arrays, we make a completly new array!
+
+# Video 35
+- while, for , for of. <--- Most commonly used
+- remember to increase starting value in loops, so it does not run forever! value++
+- for of loop is same as foreach in c#, javascript foreach loop works a bit differently!
+
+# Video 36
+- Visual studio code has ready snippets of code you can get with starting the for and finding the right loop you want and pressing tab!
+
+# Video 37
+- functions are very good if you want to use the same block of code in multiple places. And if you make a change to your pricing for example you just need to change original block of code!
+- dont name function with special characters.
+
+# Video 38
+- How to pass parameters into functions, what errors we get when it goes wrong.
+
+# Video 39
+- arrow function. It needs to be assigned to a variable.
+- works as return, if you give it 2 numbers and have => a + b; it would return the sum of those. 
+- inherited from its parent scope
+
+# Video 40
+- Single line arrow function returns automatically. Can create arrow functions across multiple lines too! then use return keyword!
 - 
