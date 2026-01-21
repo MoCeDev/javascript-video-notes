@@ -149,4 +149,50 @@
 
 # Video 40
 - Single line arrow function returns automatically. Can create arrow functions across multiple lines too! then use return keyword!
-- 
+
+# Video 41
+- json is lightweight data exchange format. language independant and user readable. 
+- for multi item arrays [] and single objects in {}
+
+# Video 42
+- JSON stringify is a method that takes a object or objects and returns back a stringified version of it
+- JSON.parse to return it to a object or array!
+
+# Video 43
+- objects created with constructors work same as literals!
+- Can access specific areas of the object and even change them!
+- check function on object with name.method()'
+- globalThis, to reference global object always!
+
+# Video 44
+- properties are name value pairs separated by commas. Can represent data (properties) or methods. 
+
+# Video 45
+- promise is a cleaner version of callbacks. return new Promise() call resolve when success and reject when operation fails
+- .then() 
+
+# Video 46
+- setTimeout(resolve, ms) call function, .then(( => sucess))  .catch(( => error))
+- can setup callout and then a new callout to next by doing .then return promiseTimeout(1000) and .then to call next callback and so forth...
+
+# Video 47
+- async/await standard in many languages. async to indicate it will have a wait call inside function await.
+- return 42; same as Promise.resolve
+- erros can be caught with try/catch, that we are familiar with already!
+
+# Video 48
+- cant use await if not inside a async function.
+- await will block execution, but allow the thread to be used by something else in the background! If something else can / needs to happen
+
+# Video 49
+- packages is reusable bundles of code or assets. Libraries tools.. also called dependencies or modules
+- NPM place to find packages, more than 1million!
+- full functional webserver can be built with less than 10 lines of code! with packages
+- package.json    npm init   npm install <package_name>
+
+# Video 50
+- dependencies and devdependencies
+- showed how to install packages, and how to get them working as scripts. And what we should not commit to github, and keep for ourself
+
+# Video 51
+- Link to github, and some starting assignments if you want to put your knowledge to use. Easier to remember stuff when you use it also!
